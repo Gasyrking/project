@@ -1,0 +1,272 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&family=Roboto:wght@400;700&display=swap');
+body{
+    margin: 36px;
+    font-family: Roboto, Roboto Slab, Areal, sans-serif;
+}
+
+.container{
+    font: Roboto;
+    padding: 36px 30px 46px 37px;
+}
+
+
+.logo{
+    width: 52px;
+    margin-top: 44px;
+}
+
+.condictions{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    font-size: 10px;
+    list-style: none;
+    padding-top: 45px;
+}
+
+.condictions-item{
+    margin-right: 14px;
+    flex-direction: row;
+    width: 10px;
+    height: 10px;
+}
+
+.foto{
+    width: 10px;
+    height: 10px;
+    margin-left: 4px;
+}
+
+.promo-title{
+    font-family: Roboto Slab;
+    font-size: 37px;
+    margin: 0 0 2px;  
+}
+
+.promo-text{
+    font-size: 10px;
+}
+
+.man{
+    display: block;
+    width: 142px;
+    margin-left: auto;
+}
+
+.viewer{
+    background-color: #1E4681;
+    color: #FFFFFF;
+
+    height: 93px;
+    width: 225px;
+    border-radius: 2px;
+    padding-bottom: 5px;
+}
+
+.viewer-text{
+    font-family: Roboto Slab;
+    margin-bottom: 7px;
+    padding-top: 9px;
+    padding-right: 13px;
+    padding-left: 12px;
+    font-size: 11px;
+}
+
+.viewer-name{
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 13px;
+    text-align: right;   
+    margin-right: 8px; 
+}
+
+.about{
+    font-family: Roboto;
+}
+
+.about-title{
+    font-family: Roboto Slab;
+    margin-top: 75px;
+}
+
+.about-text{
+    width: 309px;
+    font-size: 12px;
+}
+
+.camera{
+    display: block;
+    width: 146px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about-times{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.about-item{
+    margin-right: 49px;
+}
+
+.about-times-h1{
+    width: 67px;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.about-times-p{
+    width: 87px;
+    font-size: 10px;
+}
+
+.format{
+    font-family: Roboto;
+}
+
+.format-title{
+    font-family: Roboto Slab;
+    margin-top: 76px;
+}
+
+.format-content{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.format-content-item{
+    width: 180px;
+}
+
+.format-content-item-h1{
+    font-weight: 700;
+    font-size: 12px;
+    color: #1e4681;
+    margin-bottom: 1px;
+}
+
+.format-content-item-p{
+    font-size: 10px;
+    margin-top: 0;
+}
+
+.info-title{
+    font-family: Roboto Slab;
+    font-size: 26px;
+    margin-top: 73px;
+}
+
+.info-text{
+    width: 299px;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+}
+
+.programm-ul{
+    list-style: none;
+}
+
+.programm-li{
+    margin-bottom: 24px;
+}
+
+.how{
+    width: 186px;
+    border-radius: 14px;
+    box-shadow: 1px 1px 7px #000000;
+}
+
+.oscar{
+    width: 186px;
+}
+
+.how-h1{
+    margin-top: 5px;
+    margin-left: 9px;
+    font-family: Roboto;
+    width: 170px;
+    font-size: 14px;
+}
+
+.how-p{
+    width: 170px;
+    font-size: 12px;
+    margin-left: 9px;
+}
+
+.letter{
+    width: 186px;
+}
+
+.cut{
+    width: 186px;
+}
+
+.scroll{
+    width: 186px;
+}
+
+.mask{
+    width: 186px;
+}
+
+.tv{
+    width: 186px;
+}
+
+.star{
+    width: 186px;
+}
+
+.glasses{
+    width: 186px;
+}
+
+.result{ 
+    
+    padding: 42px 32px 53px 36px;
+    background-color: #EFEFEF;
+}
+
+.course-h1{
+    font-size: 26px;
+}
+
+.course-p{
+    width: 266px;
+    height: 111px;
+    margin: 18px 21px 16px 21px;
+    font-size: 10px;
+}
+
+.course-div{
+    padding: 11px 32px 53px 36px;
+    border-radius: 14px;
+    background-color: #FFFFFF;
+
+}
+
+.woman{
+    width: 80px;
+    height: 84px;
+}
+
+.facebook{
+    width: 15px;
+}
+
+.person{
+    width: 165px;
+    font-size: 14px;
+}
+
